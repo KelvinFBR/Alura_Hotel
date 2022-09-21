@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/bobon/OneDrive/Escritorio/challenge-one-alura-hotel-latam-repositorio-base/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bobon/OneDrive/Escritorio/challenge-one-alura-hotel-latam-repositorio-base/lib/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bobon/OneDrive/Escritorio/challenge-one-alura-hotel-latam-repositorio-base/lib/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bobon/OneDrive/Escritorio/challenge-one-alura-hotel-latam-repositorio-base/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bobon/OneDrive/Escritorio/challenge-one-alura-hotel-latam-repositorio-base/lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bobon/OneDrive/Escritorio/challenge-one-alura-hotel-latam-repositorio-base/lib/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-18.0.2.1"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
